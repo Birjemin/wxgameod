@@ -1,4 +1,4 @@
-## wxgamevp-微信小游戏开放数据
+## wxgameod-微信小游戏开放数据
 
 [![Build Status](https://travis-ci.com/Birjemin/wxgameod.svg?branch=master)](https://travis-ci.com/Birjemin/wxgameod) 
 [![Go Report Card](https://goreportcard.com/badge/github.com/birjemin/wxgameod)](https://goreportcard.com/report/github.com/birjemin/wxgameod) 
