@@ -1,4 +1,4 @@
-module wxgameod
+module github.com/birjemin/wxgameod
 
 go 1.13
 
