@@ -2,8 +2,8 @@ package wxgameod
 
 import (
 	"fmt"
+	"github.com/birjemin/wxgameod/utils"
 	"log"
-	"wxgameod/utils"
 )
 
 // SetUserStorage model

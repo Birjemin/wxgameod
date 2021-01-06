@@ -2,12 +2,12 @@ package wxgameod
 
 import (
 	"errors"
+	"github.com/birjemin/wxgameod/utils"
 	"io/ioutil"
 	"net/http"
 	"net/http/httptest"
 	"testing"
 	"time"
-	"wxgameod/utils"
 )
 
 // TestSetUserInteractiveData test SetUserInteractiveData

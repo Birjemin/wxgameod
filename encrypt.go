@@ -1,7 +1,7 @@
 package wxgameod
 
 import (
-	"wxgameod/utils"
+	"github.com/birjemin/wxgameod/utils"
 )
 
 // Encrypt encrypt
